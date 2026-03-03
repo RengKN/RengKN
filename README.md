@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**RengKN/RengKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student passionate about technology and software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Studying Information Technology
+- 💻 Interested in Web Development
+- 🌐 Learning Networking (Cisco, VLAN)
+- 🛠 Working with PHP, MySQL, Laravel
+- 🔍 Always exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- 💡 PHP, Laravel
+- 🗄 MySQL
+- ☕ Java
+- 🌐 HTML, CSS
+- 🔌 Networking & Basic IoT
+
+## 📌 Goals
+- Improve backend development skills
+- Build real-world projects
+- Become a professional software developer
+
+## 📫 Connect with Me
+- GitHub: rithyreach
+
+---
+
+⭐ Thanks for visiting my profile!
